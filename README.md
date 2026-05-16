@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-<h3>ENTER YOUR NAME</h3>
-<h3>ENTER YOUR REGISTER NO</h3>
+<h3>DEVADHAARINI D</h3>
+<h3>212223230040</h3>
 <h3>EX. NO</h3>
 <h3>DATE</h3>
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
@@ -998,10 +998,13 @@ int main(int argc, char **argv)
 ## OUTPUT:
 ## 512
 <img width="777" height="174" alt="image" src="https://github.com/user-attachments/assets/7254cca3-852f-4181-84e3-5c95be628980" />
+
 ## 1023
 <img width="786" height="172" alt="image" src="https://github.com/user-attachments/assets/37a3a893-3449-4c91-89c6-117f32907839" />
+
 ## 1024
 <img width="780" height="177" alt="image" src="https://github.com/user-attachments/assets/9f75054e-4443-4be9-9d7e-019f41f02dae" />
+
 ## 256
 <img width="798" height="184" alt="image" src="https://github.com/user-attachments/assets/698926b1-c1e5-49ff-b49c-28de9bc26237" />
 
